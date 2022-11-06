@@ -184,11 +184,17 @@ line-height: 1.14;
 margin-bottom: 10px;
 text-transform: uppercase;
 }
-.features .item-icon{
+
+.features-list .icons{
     width: 270px;
     height: 120px;
     background-color:var(--third-background-color);
+    border-radius: 4px;
     margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
 }
 
 /* section work */
